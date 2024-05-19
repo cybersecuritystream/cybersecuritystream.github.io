@@ -137,3 +137,9 @@ To subscribe and have always up-to-date schedule in your smartphone 📲.
 ----
 https://calendar.google.com/calendar/ical/23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com/public/basic.ics
 ----
+
+== assessment
+
+Here are some opinions from our training participants in *CRC'24*:
+
+image::crc-cybersecurity-survey-2024.png[CRC Cybersecurity survey 2024, align="center"]
