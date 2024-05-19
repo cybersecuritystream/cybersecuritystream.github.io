@@ -1,5 +1,5 @@
 = Welcome
-:page-role: home
+:page-role: -toc
 
 include::settings.adoc[]
 
