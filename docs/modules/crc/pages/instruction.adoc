@@ -4,7 +4,7 @@ include::ROOT:settings.adoc[]
 
 [WARNING]
 ====
-*Start following the instruction below only after receiving the invitation to GitHub organization via e-mail.*
+*Start following the instructions below only after receiving the invitation to the GitHub organization via email.*
 ====
 
 1. Join `crcep` Organization at GitHub by clicking green button btn:[Join @crcep] in the invitation message send to your e-mail address given during registration to Corporate Readiness Certificate Educational Program.
