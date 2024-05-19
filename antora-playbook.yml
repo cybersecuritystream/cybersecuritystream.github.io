@@ -5,7 +5,7 @@ site:
 content:
   edit_url: ~
   sources:
-  - url: https://github.com/crcep/cybersecurity2.git
+  - url: https://github.com/cybersecuritystream/cybersecuritystream.github.io.git
     branches: HEAD
     start_path: docs
 
