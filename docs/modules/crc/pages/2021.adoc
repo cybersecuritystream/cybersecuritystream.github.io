@@ -1,0 +1,126 @@
+= 2021
+
+include::ROOT:trainers.adoc[]
+include::ROOT:settings.adoc[]
+
+== summary
+
+[cols="2,3",align="center"]
+|===
+| *Number of hours*     | `10 hours`
+| *Number of meetings*  | `2 meetings, 2 Saturdays`
+| *Form of meeting*     | `on-line`
+|===
+
+++++
+<div>
+<canvas id="bar-chart-horizontal" width="800" height="420"></canvas>
+</div>
+
+<script>
+new Chart(document.getElementById("bar-chart-horizontal"), {
+    type: 'bar',
+    data: {
+      labels: [
+            "2021",
+        ],
+      datasets: [
+        {
+          label: "Signed-up",
+          backgroundColor: ["#3e95cd"],
+          data: [
+                53,
+            ]
+        },
+        {
+          label: "Passed entrance exam",
+          backgroundColor: ["#8e5ea2"],
+          data: [
+                39,
+            ]
+        },
+        {
+          label: "Attend classes",
+          backgroundColor: ["#F8CF60"],
+          data: [
+                39,
+            ]
+        },
+        {
+          label: "Passed final exam",
+          backgroundColor: ["#EC5F3B"],
+          data: [
+                31,
+            ]
+        },
+        {
+          label: "Certified",
+          backgroundColor: ["#84C678"],
+          data: [
+                31,
+            ]
+        }
+      ]
+    },
+    options: {
+        legend: {
+          display: true
+        },
+        responsive: true,
+        plugins: {
+            title: {
+                display: true,
+                text: 'Cybersecurity lectures summary: 2021'
+            }
+        },
+        interaction: {
+          intersect: false,
+          mode: 'index',
+        },
+    }
+});
+</script>
+++++
+
+== topics
+
+[cols="^.^1,.^10,.^6",align="center"]
+|===
+| ^|Topic              ^|Trainer
+
+|{counter:index-2021}| Defensive Cyber Security
+a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
+
+|{counter:index-2021}| Technical State Compliance Monitoring
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
+
+|{counter:index-2021}| Vulnerability Assessment
+a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
+* Damian Krawczyk {damian-krawczyk-website}
+
+|{counter:index-2021}| Cloud Native Security
+a|* Damian Krawczyk {damian-krawczyk-website}
+
+|{counter:index-2021}| Secure Software Lifecycle
+a|* Damian Krawczyk {damian-krawczyk-website}
+|===
+
+== assessment
+
+Here are some opinions from our training participants in *CRC'21*:
+
+image::crc-cybersecurity-survey-2021.png[CRC Cybersecurity survey 2021, align="center"]
+
+== comments
+
+[quote, 2021 training participant {counter:participant-2021}]
+Great course, thanks!
+
+[quote, 2021 training participant {counter:participant-2021}]
+It is a pity that the course only lasted two days. There was no time to bite into the topic :)
+
+[quote, 2021 training participant {counter:participant-2021}]
+Even more labs would be welcome ;)
+
+[quote, 2021 training participant {counter:participant-2021}]
+In my opinion more practical exercises would be better, also homework tasks would be welcome too.

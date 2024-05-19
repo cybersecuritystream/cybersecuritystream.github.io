@@ -1,0 +1,43 @@
+= 2018
+
+include::ROOT:trainers.adoc[]
+include::ROOT:settings.adoc[]
+
+== summary
+
+[cols="2,3",align="center"]
+|===
+| *Number of hours*     | `12 hours`
+| *Number of meetings*  | `6 meetings`
+| *Form of meeting*     | `on-site`
+|===
+
+== topics
+
+[cols="^.^1,.^10,.^6",align="center"]
+|===
+| ^|Topic              ^|Trainer
+
+|{counter:index-2018}| Who attacks the organization and how (OWASP TOP 10, ASVS and protection methods) - part 1
+a|* Krzysztof Cudak
+
+|{counter:index-2018}| Who attacks the organization and how (OWASP TOP 10, ASVS and protection methods) - part 2
+a|* Krzysztof Cudak
+
+|{counter:index-2018}| Simulation and detection of APT attack in an organization - part 1
+a|* Mariusz Derela
+* Michał Terbert
+* Krzysztof Kuźnik {krzysztof-kuznik-linkedin}
+
+|{counter:index-2018}| Simulation and detection of APT attack in an organization - part 2
+a|* Mariusz Derela
+* Michał Terbert
+* Krzysztof Kuźnik {krzysztof-kuznik-linkedin}
+
+|{counter:index-2018}| Vulnerability types, classification and detection
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
+
+|{counter:index-2018}| Designing tests to verify configuration and detect vulnerabilities
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
+
+|===

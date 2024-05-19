@@ -1,0 +1,45 @@
+<meta property="og:title" content="Cybersecurity Stream">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://cybersecuritystream.github.io">
+<meta property="og:description" content="Discover the strategic areas of cybersecurity defense in modern organizations.">
+{{!-- <meta property="og:image" content="https://avatars.githubusercontent.com/u/83579804"> --}}
+<meta property="og:site_name" content="cybersecuritystream.github.io">
+<meta property="og:locale" content="en_US" />
+{{!-- <link rel="icon" href="https://avatars.githubusercontent.com/u/83579804"> --}}
+
+<header class="header">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{{or site.url siteRootPath}}}">{{site.title}}</a>
+      {{#if env.SITE_SEARCH_PROVIDER}}
+      <div class="navbar-item search hide-for-print">
+        <div id="search-field" class="field">
+          <input id="search-input" type="text" placeholder="Search the docs"{{#if page.home}} autofocus{{/if}}>
+        </div>
+      </div>
+      {{/if}}
+      <button class="navbar-burger" aria-controls="topbar-nav" aria-expanded="false" aria-label="Toggle main menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+    <div id="topbar-nav" class="navbar-menu">
+      <div class="navbar-end">
+        <a class="navbar-item" href="{{{or site.url siteRootPath}}}">Home</a>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="#">GitHub</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="https://github.com/crcep/cybersecurity-2024">Repository 2024</a>
+            <a class="navbar-item" href="https://github.com/crcep/cybersecurity-2024/discussions">Discussions 2024</a>
+          </div>
+        </div>
+        <div class="navbar-item">
+          <span class="control">
+            <a class="button is-primary" href="https://github.com/crcep">GitHub</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>

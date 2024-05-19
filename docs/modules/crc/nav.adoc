@@ -1,0 +1,10 @@
+* xref:index.adoc[]
+** xref:instruction.adoc[]
+** xref:2024.adoc[]
+** Previous editions
+*** xref:2023.adoc[]
+*** xref:2022.adoc[]
+*** xref:2021.adoc[]
+*** xref:2019.adoc[]
+*** xref:2018.adoc[]
+*** xref:2017.adoc[]
