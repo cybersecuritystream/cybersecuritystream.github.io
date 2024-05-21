@@ -1,5 +1,6 @@
 * xref:index.adoc[]
 ** xref:instruction.adoc[]
+** xref:faq.adoc[]
 ** xref:2024.adoc[]
 ** Previous editions
 *** xref:2023.adoc[]
