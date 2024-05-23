@@ -11,7 +11,7 @@ Companies operating in the Silesian region in Poland implemented this program in
 The CRC program offers active students who are open to acquiring new knowledge and practical skills, which provides unique opportunities for professional development.
 The CRC program gives the possibility to gain additional specialist knowledge in IT and work management systems in large enterprises, learn about new areas of business activity, and increase the chances of participants on the labor market!
 
-https://euslugi.polsl.pl/Formularz/Formularz/Wypelnij/70[kbd:[Detailed description of the CRC program]]
+https://euslugi.polsl.pl/Dokument/Find/c5c365b0-d992-4d9b-9552-d9f571bc4162/Program_CRC_11_edycja_2024.pdf[kbd:[Detailed description of the CRC program]]
 
 == Business partners
 - https://www.accenture.com[Accenture],
