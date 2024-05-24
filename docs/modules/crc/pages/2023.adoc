@@ -156,7 +156,7 @@ Here are some opinions from our training participants in *CRC'23*:
 
 image::crc-cybersecurity-survey-2023.png[CRC Cybersecurity survey 2023, align="center"]
 
-== comments
+== testimonials
 
 [quote, 2023 training participant {counter:participant-2023}]
 This was one of the best experiences I've had during my time at a university.

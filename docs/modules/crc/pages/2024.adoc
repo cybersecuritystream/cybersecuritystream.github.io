@@ -214,7 +214,7 @@ Here are some opinions from our training participants in *CRC'24*:
 
 image::crc-cybersecurity-survey-2024.png[CRC Cybersecurity survey 2024, align="center"]
 
-== comments
+== testimonials
 
 [quote, 2024 training participant {counter:participant-2024}]
 This was one of the best courses on Cybersecurity I have ever attended. Loved the timeline and how you built the momentum for the most difficult parts to come, leading us through the basics first. I have already recommended it to my friends for the upcoming year. Loved the classes and the tutors who did an amazing job explaining even the hardest concepts, plus being extremely friendly and approachable at the same time. My personal fav - IAM, wow that guy did great! :) Kudos to the organizers, great job!

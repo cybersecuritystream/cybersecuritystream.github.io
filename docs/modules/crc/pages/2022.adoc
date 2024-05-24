@@ -130,7 +130,7 @@ Here are some opinions from our training participants in *CRC'22*:
 
 image::crc-cybersecurity-survey-2022.png[CRC Cybersecurity survey 2022, align="center"]
 
-== comments
+== testimonials
 
 [quote, 2022 training participant {counter:participant-2022}]
 It was a great adventure, comparing to other CRC course that i participated you definitely exceeded my expectations, I will recommend your course to others, thanks :)

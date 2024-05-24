@@ -115,7 +115,7 @@ Here are some opinions from our training participants in *CRC'19*:
 
 image::crc-cybersecurity-survey-2019.png[CRC Cybersecurity survey 2019, align="center"]
 
-== comments
+== testimonials
 
 [quote, 2019 training participant {counter:participant-2019}]
 It was very helpful to understand security principles.

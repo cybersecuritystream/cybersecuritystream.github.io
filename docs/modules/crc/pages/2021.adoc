@@ -111,7 +111,7 @@ Here are some opinions from our training participants in *CRC'21*:
 
 image::crc-cybersecurity-survey-2021.png[CRC Cybersecurity survey 2021, align="center"]
 
-== comments
+== testimonials
 
 [quote, 2021 training participant {counter:participant-2021}]
 Great course, thanks!
