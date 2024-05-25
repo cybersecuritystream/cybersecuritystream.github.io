@@ -2,7 +2,7 @@ groups:
 - root: true
   components: home
 - title: CRC
-  components: 'crc'
+  components: 'crc-*'
 - title: Initiatives
-  components: ['limberduck']
+  components: ['limberduck-*']
 output_file: site-navigation-data.js
