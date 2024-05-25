@@ -1,3 +1,7 @@
+antora:
+  extensions:
+  - require: ./..
+    config_file: ./antora-navigator.yml
 site:
   title: Cybersecurity stream
   start_page: cybersecurity::index.adoc
