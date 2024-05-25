@@ -1,7 +1,3 @@
-antora:
-  extensions:
-  - require: ./..
-    config_file: ./antora-navigator.yml
 site:
   title: Cybersecurity stream
   start_page: cybersecurity::index.adoc
@@ -12,8 +8,6 @@ content:
   - url: https://github.com/cybersecuritystream/cybersecuritystream.github.io.git
     branches: HEAD
     start_path: docs
-  - url: https://github.com/LimberDuck/antora-limberduck.git
-    branches: HEAD
 
 ui:
   supplemental_files: ./supplemental-ui
