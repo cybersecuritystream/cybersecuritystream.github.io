@@ -17,7 +17,7 @@ You've come to the right place! Our CRC lectures are not just about passive lear
 
 We hope to see you at our lectures!
 
-[Register for 2025 edition :octicons-link-external-16:](https://euslugi.polsl.pl/Formularz/Formularz/Wypelnij/97){ .md-button .md-button--primary } [Read about 2025 edition :material-rocket-launch:](crc/2025.md){ .md-button }
+[Register for 2025 edition :octicons-link-external-16:](https://euslugi.polsl.pl/Formularz/Formularz/Wypelnij/97){ .md-button .md-button--primary } [Read about 2025 edition :material-rocket-launch:](crc/2025/index.md){ .md-button }
 
 ## Training statistics
 
