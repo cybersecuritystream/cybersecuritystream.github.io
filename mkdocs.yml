@@ -35,8 +35,8 @@ theme:
       logo: material/security
       icon: material/security
   features:
-    # - navigation.instant
-    # - navigation.instant.progress
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.tabs
     - navigation.top
     - navigation.tracking
