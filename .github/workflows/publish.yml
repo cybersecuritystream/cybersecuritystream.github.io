@@ -1,42 +1,29 @@
-name: Publish to GitHub Pages
+name: ci 
 on:
   push:
-    branches: [main]
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-concurrency:
-  group: github-pages
-  cancel-in-progress: false
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+    branches:
+      - master 
+      - main
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    - name: Configure Pages
-      uses: actions/configure-pages@v5
-    - name: Install Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
-    - name: Install Antora
-      run: npm i antora
-    - name: Generate Site
-      run: npx antora antora-playbook.yml
-    - name: List directories
-      run: ls -la build/site
-    - name: Upload Artifacts
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: build/site
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --force
