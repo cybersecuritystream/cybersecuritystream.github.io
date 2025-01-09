@@ -1,0 +1,120 @@
+site_name: Cybersecurity stream
+site_url: https://cybersecuritystream.github.io
+
+theme:
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: white
+      accent: light blue
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: white
+      accent: light blue
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: indigo
+      accent: light blue
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  name: material
+  language: en
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - announce.dismiss
+    - navigation.indexes
+    - content.code.copy
+    - content.tooltips
+
+plugins:
+  - search
+  - glightbox:
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - skip-lightbox
+  - git-authors
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - table-reader
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: http://github.com/crcep
+      name: Cybersecurity stream at GitHub
+  status:
+    new: New
+    inprogress: In progress
+
+
+copyright: Copyright &copy; 2017 - 2025 Cybersecurity stream
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - toc:
+      permalink: '#'
+      permalink_title: Direct link to this section
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - abbr
+  - pymdownx.keys
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+- Home: index.md
+- CRC:
+  - crc/index.md
+  - crc/2025/index.md
+  - crc/instruction/index.md
+  - Previous editions:
+    - crc/previous/index.md
+    - crc/2024/index.md
+    - crc/2023/index.md
+    - crc/2022/index.md
+    - crc/2021/index.md
+    - crc/2019/index.md
+    - crc/2018/index.md
+    - crc/2017/index.md
+  - crc/faq.md

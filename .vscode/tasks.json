@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start Mkdocs",
+            "type": "shell",
+            "options": 
+            {
+                "env": 
+                {
+                    "PROJECT_PORT": "8087"
+                }
+            },
+            "command": "${config:virtualenvPath}/mkdocs serve -a 127.0.0.1:$PROJECT_PORT --open"
+        }
+    ]
+}
