@@ -100,7 +100,7 @@ markdown_extensions:
   - pymdownx.keys
 
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js
+  - js/chart.min.js
 
 extra_css:
   - stylesheets/extra.css
