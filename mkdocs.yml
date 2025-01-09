@@ -53,8 +53,8 @@ plugins:
       draggable: true
       skip_classes:
         - skip-lightbox
-  - git-authors
-      show_email_address: false
+  - git-authors:
+      show_email_address: true
   - git-revision-date-localized:
       enable_creation_date: true
   - table-reader
