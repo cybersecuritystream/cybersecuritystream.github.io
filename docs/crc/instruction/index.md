@@ -63,7 +63,7 @@
 
 !!! tip
 
-    You can install GitHub app on your smartphone, go to https://github.com/mobile[github.com/mobile] to have even easier access to all information needed or to take a part in discussions.
+    You can install GitHub app on your smartphone, go to [github.com/mobile](https://github.com/mobile) to have even easier access to all information needed or to take a part in discussions.
 
 [lectures-timetable]: https://github.com/crcep/cybersecurity-2024#lectures-timetable "lectures timetable"
 [passing-criteria]: https://github.com/crcep/cybersecurity-2024#passing-criteria "passing criteria"
