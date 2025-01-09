@@ -100,7 +100,7 @@ markdown_extensions:
   - pymdownx.keys
 
 extra_javascript:
-  - js/chart.min.js
+  - javascripts/chart.min.js
 
 extra_css:
   - stylesheets/extra.css
