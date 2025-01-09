@@ -13,8 +13,8 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: white
-      accent: light blue
+      primary: orange
+      accent: deep orange
       scheme: default 
       toggle:
         icon: material/brightness-7
@@ -22,8 +22,8 @@ theme:
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: indigo
-      accent: light blue
+      primary: orange
+      accent: deep orange
       scheme: slate
       toggle:
         icon: material/brightness-4
@@ -31,6 +31,9 @@ theme:
   name: material
   language: en
   custom_dir: overrides
+  icon:
+      logo: material/security
+      icon: material/security
   features:
     - navigation.instant
     - navigation.instant.progress
