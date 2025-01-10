@@ -21,63 +21,7 @@ We hope to see you at our lectures!
 
 ## Training statistics
 
-<div>
-<canvas id="bar-chart-horizontal" width="800" height="420"></canvas>
-</div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    if (document.getElementById("bar-chart-horizontal")) {
-        new Chart(document.getElementById("bar-chart-horizontal"), {
-            type: 'bar',
-            data: {
-                labels: ["2019", "2021", "2022", "2023", "2024"],
-                datasets: [
-                    {
-                        label: "Signed-up",
-                        backgroundColor: ["#3e95cd"],
-                        data: [36, 53, 124, 109, 190]
-                    },
-                    {
-                        label: "Passed entrance exam",
-                        backgroundColor: ["#8e5ea2"],
-                        data: [25, 39, 98, 100, 139]
-                    },
-                    {
-                        label: "Attend classes",
-                        backgroundColor: ["#F8CF60"],
-                        data: [23, 39, 73, 83, 95]
-                    },
-                    {
-                        label: "Passed final exam",
-                        backgroundColor: ["#EC5F3B"],
-                        data: [11, 31, 64, 65, 86]
-                    },
-                    {
-                        label: "Certified",
-                        backgroundColor: ["#84C678"],
-                        data: [11, 31, 64, 65, 86]
-                    }
-                ]
-            },
-            options: {
-                legend: { display: true },
-                responsive: true,
-                plugins: {
-                    title: {
-                        display: true,
-                        text: 'Cybersecurity lectures summary: 2019-2024'
-                    }
-                },
-                interaction: {
-                    intersect: false,
-                    mode: 'index'
-                }
-            }
-        });
-    }
-});
-</script>
+<div><canvas id="bar-chart-horizontal-all" width="800" height="420"></canvas></div>
 
 ## Training testimonials
 

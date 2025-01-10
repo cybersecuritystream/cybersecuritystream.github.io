@@ -35,8 +35,8 @@ theme:
       logo: material/security
       icon: material/security
   features:
-    - navigation.instant
-    - navigation.instant.progress
+    # - navigation.instant
+    # - navigation.instant.progress
     - navigation.tabs
     - navigation.top
     - navigation.tracking
@@ -102,6 +102,12 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/chart.min.js
+  - javascripts/chart-all.js
+  - javascripts/chart-2024.js
+  - javascripts/chart-2023.js
+  - javascripts/chart-2022.js
+  - javascripts/chart-2021.js
+  - javascripts/chart-2019.js
 
 extra_css:
   - stylesheets/extra.css

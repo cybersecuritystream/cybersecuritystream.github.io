@@ -4,63 +4,7 @@
 
 {{ read_csv('summary.csv') }}
 
-<div>
-<canvas id="bar-chart-horizontal" width="800" height="420"></canvas>
-</div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    if (document.getElementById("bar-chart-horizontal")) {
-        new Chart(document.getElementById("bar-chart-horizontal"), {
-            type: 'bar',
-            data: {
-                labels: ["2021"],
-                datasets: [
-                    {
-                        label: "Signed-up",
-                        backgroundColor: ["#3e95cd"],
-                        data: [53]
-                    },
-                    {
-                        label: "Passed entrance exam",
-                        backgroundColor: ["#8e5ea2"],
-                        data: [39]
-                    },
-                    {
-                        label: "Attend classes",
-                        backgroundColor: ["#F8CF60"],
-                        data: [39]
-                    },
-                    {
-                        label: "Passed final exam",
-                        backgroundColor: ["#EC5F3B"],
-                        data: [31]
-                    },
-                    {
-                        label: "Certified",
-                        backgroundColor: ["#84C678"],
-                        data: [31]
-                    }
-                ]
-            },
-            options: {
-                legend: { display: true },
-                responsive: true,
-                plugins: {
-                    title: {
-                        display: true,
-                        text: 'Cybersecurity lectures summary: 2021'
-                    }
-                },
-                interaction: {
-                    intersect: false,
-                    mode: 'index'
-                }
-            }
-        });
-    }
-});
-</script>
+<div><canvas id="bar-chart-horizontal-2021" width="800" height="420"></canvas></div>
 
 ## Topics
 
