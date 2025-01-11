@@ -34,9 +34,8 @@ theme:
   language: en
   custom_dir: overrides
   logo: assets/logo.png
-  favicon: assets/logo.png
+  favicon: assets/favicon.png
   icon:
-      logo: simple/streamrunners
       repo: fontawesome/brands/github
   features:
     # - navigation.instant
