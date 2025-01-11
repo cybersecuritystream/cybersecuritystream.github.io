@@ -19,7 +19,8 @@ description: Schedule, topics, and trainers for the 2023 edition.
 
 Here are some opinions from our training participants in **CRC'23**:
 
-![CRC Cybersecurity survey 2023](crc-cybersecurity-survey-2023.webp){ loading=lazy }
+![CRC Cybersecurity survey 2023](crc-cybersecurity-survey-2023-light.webp#only-light){ loading=lazy }
+![CRC Cybersecurity survey 2023](crc-cybersecurity-survey-2023-dark.webp#only-dark){ loading=lazy }
 
 ## Testimonials
 
