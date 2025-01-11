@@ -1,3 +1,8 @@
+---
+title: CRC 2021 edition
+description: Schedule, topics, and trainers for the 2021 edition.
+---
+
 # CRC 2021 edition
 
 ## Summary

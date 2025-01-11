@@ -1,3 +1,8 @@
+---
+title: CRC 2024 edition
+description: Schedule, topics, and trainers for the 2024 edition.
+---
+
 # CRC 2024 edition
 
 ## Summary

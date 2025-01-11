@@ -5,7 +5,7 @@ theme:
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      primary: white
+      primary: orange
       accent: light blue
       toggle:
         icon: material/brightness-auto
@@ -32,8 +32,8 @@ theme:
   language: en
   custom_dir: overrides
   icon:
-      logo: material/security
-      icon: material/security
+      logo: simple/streamrunners
+      icon: simple/streamrunners
   features:
     # - navigation.instant
     # - navigation.instant.progress
@@ -58,6 +58,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - table-reader
+  - social
 
 extra:
   generator: false
@@ -118,6 +119,7 @@ nav:
   - crc/index.md
   - crc/2025/index.md
   - crc/instruction/index.md
+  - crc/faq.md
   - Previous editions:
     - crc/previous/index.md
     - crc/2024/index.md
@@ -127,4 +129,3 @@ nav:
     - crc/2019/index.md
     - crc/2018/index.md
     - crc/2017/index.md
-  - crc/faq.md

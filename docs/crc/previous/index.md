@@ -1,6 +1,11 @@
+---
+title: Previous CRC editions
+description: Check out past lectures, attendee assessments, and testimonials.
+---
+
 # Previous editions
 
-Check previous editions of our trening which we continuously improve since 2017!
+Check out previous training editions, which we have continuously improved since 2017!
 
 <div class="grid cards" markdown>
 

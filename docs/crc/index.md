@@ -1,3 +1,8 @@
+---
+title: Corporate Readiness Certificate
+description: The educational program providing participants with recent knowledge and practical skills.
+---
+
 # Corporate Readiness Certificate
 
 ![CRC logo](https://avatars.githubusercontent.com/u/83579804){ align=left width="250" }

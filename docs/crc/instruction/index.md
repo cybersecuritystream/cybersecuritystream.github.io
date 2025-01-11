@@ -1,5 +1,9 @@
-# Instruction
+---
+title: Instruction
+description: Read carefully to join the CRC classes of this edition successfully.
+---
 
+# Instruction
 
 !!! warning
 

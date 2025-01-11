@@ -1,6 +1,9 @@
 ---
 status: new
+title: CRC 2025 edition
+description: Schedule, topics, and trainers for this year's edition.
 ---
+
 
 # CRC 2025 edition
 

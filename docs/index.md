@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 title: Cybersecurity stream
-description: Free cybersecurity trainings for students and graduates based in Poland.
+description: Free cybersecurity training for students and graduates.
 social:
   cards_layout_options:
     title: Cybersecurity stream

@@ -1,3 +1,8 @@
+---
+title: CRC 2018 edition
+description: Schedule, topics, and trainers for the 2018 edition.
+---
+
 # CRC 2018 edition
 
 ## Summary

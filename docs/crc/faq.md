@@ -1,3 +1,8 @@
+---
+title: FAQ
+description: Do you have questions? Find the answers here.
+---
+
 # FAQ
 
 ## Who can join this course?
