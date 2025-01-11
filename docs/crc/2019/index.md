@@ -19,7 +19,7 @@ description: Schedule, topics, and trainers for the 2019 edition.
 
 Here are some opinions from our training participants in **CRC'19**:
 
-![CRC Cybersecurity survey 2019](crc-cybersecurity-survey-2019.png){ loading=lazy }
+![CRC Cybersecurity survey 2019](crc-cybersecurity-survey-2019.webp){ loading=lazy }
 
 ## Testimonials
 

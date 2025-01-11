@@ -19,7 +19,7 @@ description: Schedule, topics, and trainers for the 2022 edition.
 
 Here are some opinions from our training participants in **CRC'22**:
 
-![CRC Cybersecurity survey 2022](crc-cybersecurity-survey-2022.png){ loading=lazy }
+![CRC Cybersecurity survey 2022](crc-cybersecurity-survey-2022.webp){ loading=lazy }
 
 ## Testimonials
 

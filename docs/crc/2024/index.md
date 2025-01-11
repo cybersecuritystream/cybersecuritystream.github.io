@@ -19,7 +19,7 @@ description: Schedule, topics, and trainers for the 2024 edition.
 
 Here are some opinions from our training participants in **CRC'24**:
 
-![CRC Cybersecurity survey 2024](crc-cybersecurity-survey-2024.png){ loading=lazy }
+![CRC Cybersecurity survey 2024](crc-cybersecurity-survey-2024.webp){ loading=lazy }
 
 ## Testimonials
 
