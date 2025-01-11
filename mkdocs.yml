@@ -59,6 +59,7 @@ plugins:
   - git-authors:
       show_email_address: false
   - git-revision-date-localized:
+      type: timeago
       enable_creation_date: true
       timezone: Europe/Warsaw
       locale: en
