@@ -1,5 +1,7 @@
 site_name: Cybersecurity stream
 site_url: https://cybersecuritystream.github.io
+repo_url: https://github.com/cybersecuritystream/cybersecuritystream.github.io
+edit_uri: edit/main/docs/
 
 theme:
   palette:
@@ -33,7 +35,7 @@ theme:
   custom_dir: overrides
   icon:
       logo: simple/streamrunners
-      icon: simple/streamrunners
+      repo: fontawesome/brands/github
   features:
     # - navigation.instant
     # - navigation.instant.progress
@@ -45,6 +47,7 @@ theme:
     - navigation.indexes
     - content.code.copy
     - content.tooltips
+    - content.action.view
 
 plugins:
   - search
@@ -57,7 +60,6 @@ plugins:
       show_email_address: false
   - git-revision-date-localized:
       enable_creation_date: true
-      fallback_to_build_date: true
   - table-reader
   - social
 
