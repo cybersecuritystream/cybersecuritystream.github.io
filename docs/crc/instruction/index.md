@@ -9,7 +9,6 @@ description: Read carefully to join the CRC classes of this edition successfully
 
     **Start following the instructions below only after receiving the invitation to the GitHub organization via email.**
 
-
 1. Join `crcep` Organization at GitHub by clicking green button ++"[Join @crcep]"++ in the invitation message send to your e-mail address given during registration to Corporate Readiness Certificate Educational Program.
 
     ??? note
@@ -29,11 +28,10 @@ description: Read carefully to join the CRC classes of this edition successfully
 3. Go to [github.com/settings/organizations](https://github.com/settings/organizations) and check if you see `crcep` organization on the list of organizations at GitHub to which you belong.
 
     ??? note
+
+        Here is what you should see:
         
         ![](crcep-member.png){ loading=lazy }
-
-
-    ??? warning
 
         If you don't see `crcep` on the list of organizations go back to invitation message mentioned in the first point and click again green button ++"[Join @crcep]"++.
 
