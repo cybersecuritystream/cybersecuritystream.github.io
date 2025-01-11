@@ -57,11 +57,12 @@ plugins:
       show_email_address: false
   - git-revision-date-localized:
       enable_creation_date: true
+      fallback_to_build_date: true
   - table-reader
   - social
 
 extra:
-  generator: false
+  generator: true
   social:
     - icon: fontawesome/brands/github
       link: http://github.com/crcep
