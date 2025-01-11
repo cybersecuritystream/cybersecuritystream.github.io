@@ -47,7 +47,7 @@ theme:
     - navigation.indexes
     - content.code.copy
     - content.tooltips
-    - content.action.view
+    # - content.action.view
 
 plugins:
   - search
