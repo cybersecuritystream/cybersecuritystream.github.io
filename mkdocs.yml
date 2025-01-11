@@ -66,6 +66,13 @@ plugins:
       fallback_to_build_date: false
   - table-reader
   - social
+  - blog:
+      enabled: true
+  - rss:
+      match_path: "blog/posts/.*"
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
 
 extra:
   generator: true
@@ -142,3 +149,5 @@ nav:
     - crc/2019/index.md
     - crc/2018/index.md
     - crc/2017/index.md
+- Blog:
+  - blog/index.md
