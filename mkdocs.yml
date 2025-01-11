@@ -60,6 +60,9 @@ plugins:
       show_email_address: false
   - git-revision-date-localized:
       enable_creation_date: true
+      timezone: Europe/Warsaw
+      locale: en
+      fallback_to_build_date: false
   - table-reader
   - social
 
