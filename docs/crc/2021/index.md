@@ -39,3 +39,4 @@ Here are some opinions from our training participants in **CRC'21**:
 !!! quote "2021 training participant 4"
 
     In my opinion more practical exercises would be better, also homework tasks would be welcome too.
+

@@ -43,3 +43,4 @@ Here are some opinions from our training participants in **CRC'19**:
 !!! quote "2019 training participant 5"
 
     Two Saturdays is not enough. Ideally, for example, 6 Saturdays.
+

@@ -203,3 +203,4 @@ Here are some opinions from our training participants in **CRC'24**:
 !!! quote "2024 training participant 45"
 
     The course was sensational, the amount of knowledge imparted in the course was incredibly great and valuable.
+

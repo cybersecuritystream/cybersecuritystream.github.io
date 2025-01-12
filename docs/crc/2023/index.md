@@ -147,3 +147,4 @@ Here are some opinions from our training participants in **CRC'23**:
 !!! quote "2023 training participant 31"
 
     The course is great. I don’t have any more ideas to improve this course. Very enjoyable training sessions :)
+

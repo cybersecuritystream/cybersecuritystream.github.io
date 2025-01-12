@@ -32,3 +32,4 @@ No. You need to have:
 
 - *English* – to take the entrance and final exams and read all materials we share.
 - *Polish* – to understand what we say to you, all classes are conducted in  Polish.
+

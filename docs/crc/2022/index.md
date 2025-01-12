@@ -139,3 +139,4 @@ Here are some opinions from our training participants in **CRC'22**:
 !!! quote "2022 training participant 29"
 
     Even more practice and maybe more advanced stuff! It’s been great!
+
