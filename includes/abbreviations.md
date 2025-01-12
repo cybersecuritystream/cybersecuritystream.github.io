@@ -5,3 +5,4 @@
 *[SIEM]: Security Information and Event Management
 *[SOAR]: Security Orchestration, Automation and Response
 *[ETL]: Extract, Transform and Load
+*[SDLC]: Software Development Life Cycle

@@ -15,9 +15,4 @@ description: Schedule, topics, and trainers for this year's edition.
 
 ## Topics
 
-<!-- {{ read_csv('topics.csv', colalign=("left","left",)) }} -->
-
-
-!!! info
-
-    To be announced soon.
+{{ read_csv('topics.csv', colalign=("left","left",)) }}
