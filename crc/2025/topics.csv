@@ -1,2 +1,33 @@
-#,Topic,Trainer
-#,Topic,Trainer
+﻿#,Topic,Trainer
+1,Kickoff meeting,"Łukasz Jankowski [:material-linkedin:](https://www.linkedin.com/in/lukasz-jan-jankowski),<br>Damian Krawczyk [:material-web:](https://www.damiankrawczyk.com)"
+2,Cyber awareness,Sławomir Staciwa [:material-linkedin:](https://www.linkedin.com/in/sstaciwa)
+3,Data Protection - Compliance,Dagmara Adamczyk [:material-linkedin:](https://www.linkedin.com/in/adamczykdagmara/)
+4 :material-new-box:,Legal aspects of cyber security,Judyta Berc [:material-linkedin:](https://www.linkedin.com/in/judyta-berc-569730211)
+5,IT Risk Management - Basics,Askaniusz Ferens [:material-linkedin:](https://www.linkedin.com/in/asek-ferens)
+6,IT Risk Management - Governance,Justyna Chochla-Wojdyła [:material-linkedin:](https://www.linkedin.com/in/justyna-chochla)
+7 :material-new-box:,IT Risk Management - Analysis,Anna Maszybrocka [:material-linkedin:](https://www.linkedin.com/in/anna-maszybrocka)
+8 :material-new-box:,IT Risk Management - Monitoring,Daniel Leon
+9 :material-new-box:,IT Risk Management - On-prem vs Cloud,Piotr Czarnik [:material-linkedin:](https://www.linkedin.com/in/piotr-czarnik-5a2b20124)
+10,Risk Management - Compliance,Kamila Juszczyk [:material-linkedin:](https://www.linkedin.com/in/kamila-juszczyk)
+11,Risk Management - Operational Risk Management,Oskar Marszalik [:material-linkedin:](https://www.linkedin.com/in/oskar-marszalik-30a169215)
+12,Risk Management - Audits,Kamila Juszczyk [:material-linkedin:](https://www.linkedin.com/in/kamila-juszczyk)
+13,Identity and Access Management,Paweł Matyszok [:material-linkedin:](https://www.linkedin.com/in/pawelmatyszok)
+14,Password vaults,Mateusz Kozieł [:material-linkedin:](https://www.linkedin.com/in/mateusz-koziel)
+15,Cryptography - Basics,Jacek Kocyba [:material-linkedin:](https://www.linkedin.com/in/jacek-kocyba-49a5a2a0)
+16,Shadow IT,Jacek Kocyba [:material-linkedin:](https://www.linkedin.com/in/jacek-kocyba-49a5a2a0)
+17,Vulnerability Assessment,"Łukasz Jankowski [:material-linkedin:](https://www.linkedin.com/in/lukasz-jan-jankowski),<br>Damian Krawczyk [:material-web:](https://www.damiankrawczyk.com)"
+18,Vulnerability Assessment for containers,"Krzysztof Kozak [:material-linkedin:](https://www.linkedin.com/in/krzysztof-kozak-IT/),<br>Łukasz Galos [:material-linkedin:](https://www.linkedin.com/in/lukasz-galos/)"
+19 :material-new-box:,Introduction to secret scanning,"Patryk Zachnik [:material-linkedin:](https://www.linkedin.com/in/patrykzachnik), Mateusz Majstrak [:material-linkedin:](https://www.linkedin.com/in/mateusz-majstrak)"
+20,Secure Configuration Monitoring,Maciej Wróbel [:material-linkedin:](https://www.linkedin.com/in/maciejwrobel)
+21,Secure SDLC,Maciej Wróbel [:material-linkedin:](https://www.linkedin.com/in/maciejwrobel)
+22,Introduction to Offensive tooling,Michał Kucharski [:material-web:](https://kucharskov.pl/)
+23,OSINT in the service of Offensive Security,Maciej Pypeć [:material-linkedin:](https://linkedin.com/in/maciej-pypec)
+24,Offensive Cybersecurity - Red Teaming theory,Jakub Plusczok [:material-linkedin:](https://www.linkedin.com/in/jakubplusczok)
+25,Offensive Cybersecurity - Red Teaming workshop,Jakub Plusczok [:material-linkedin:](https://www.linkedin.com/in/jakubplusczok)
+26,Offensive Cybersecurity - DDOS,Gerard Żmuda [:material-linkedin:](https://linkedin.com/in/gerard-zmuda)
+27,Defensive Cybersecurity - SIEM + SOAR + Proxy,Daniel Jeczeń [:material-linkedin:](https://linkedin.com/in/daniel-jeczen)
+28,Defensive Cybersecurity - Malware Analysis,Mirosław Koczenasz
+29,Building ETL for Security data,Michał Kocur [:material-linkedin:](https://www.linkedin.com/in/michal-kocur)
+30,Security data processing automation,"Piotr Furmaniak [:material-linkedin:](https://www.linkedin.com/in/piotr-furmaniak-4b2a07224),<br>Adam Majstrak [:material-web:](https://codehub.com.pl/)"
+31,Introduction to Azure Public Cloud,Rafał Nowakowski [:material-linkedin:](https://linkedin.com/in/rafal-n)
+32 :material-new-box:,Security aspects of Azure Kubernetes clusters deployment and applications delivery,Michał Ziółek [:material-linkedin:](https://pl.linkedin.com/in/mz256)
