@@ -12,7 +12,7 @@ categories:
 
 __Sign-up!__
 
-If you have been waiting the whole year for a new edition of our Cybersecurity training, this time has come! Registration is finally open!
+If you have been waiting the whole year for a new edition of our "*Cybersecurity - defense in modern organizations*" training, this time has come! Registration is finally open!
 
 <!-- more -->
 Check [this page](../../crc/2025/index.md) to learn more about what we prepared for you this year, or click the button below right away!
