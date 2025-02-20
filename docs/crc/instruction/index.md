@@ -52,23 +52,23 @@ description: Read carefully to join the CRC classes of this edition successfully
 
         ![](crcep-watch-star){ loading=lazy }
 
-5. Check [lectures-timetable][lectures-timetable] 🗓.
+5. Check [passing criteria][passing-criteria] for current edition ✅.
 
-6. Check [passing-criteria][passing-criteria] ✅.
+6. Say hello 👋 to everyone and [introduce yourself][repository-discussion-hello].
 
-7. Say hello 👋 to everyone and [repository-discussion-hello][repository-discussion-hello].
+7. Feel free to start new [discussions][repository-discussions]. Remember to tag appropriate group to make sure that they will receive notification about your post:
+    - `@crcep/cybersecurity-trainers-2025`
+    - `@crcep/cybersecurity-class-2025`
 
-8. Feel free to start new [repository-discussions][repository-discussions]. Remember to tag appropriate group to make sure that they will receive notification about your post.
-
-* `@crcep/cybersecurity-trainers-2024`
-* `@crcep/cybersecurity-class-2024`
+8. Check [lectures timetable][lectures-timetable] 🗓 and [JOIN][join] the classes!
 
 !!! tip
 
     You can install GitHub app on your smartphone, go to [github.com/mobile](https://github.com/mobile) to have even easier access to all information needed or to take a part in discussions.
 
-[lectures-timetable]: https://github.com/crcep/cybersecurity-2024#lectures-timetable "lectures timetable"
-[passing-criteria]: https://github.com/crcep/cybersecurity-2024#passing-criteria "passing criteria"
-[repository]: https://github.com/crcep/cybersecurity-2024 "repository"
-[repository-discussions]: https://github.com/crcep/cybersecurity-2024/discussions "discussions"
-[repository-discussion-hello]: https://github.com/crcep/cybersecurity-2024/discussions/1 "introduce yourself"
+[lectures-timetable]: https://cybersecuritystream.github.io/crc/2025/#schedule "lectures timetable"
+[passing-criteria]: https://github.com/crcep/cybersecurity-2025#passing-criteria "passing criteria"
+[repository]: https://github.com/crcep/cybersecurity-2025 "repository"
+[repository-discussions]: https://github.com/crcep/cybersecurity-2025/discussions "discussions"
+[repository-discussion-hello]: https://github.com/crcep/cybersecurity-2025/discussions/1 "introduce yourself"
+[join]: https://github.com/crcep/cybersecurity-2025#join "JOIN"
