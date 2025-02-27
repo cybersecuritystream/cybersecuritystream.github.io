@@ -3,17 +3,17 @@ document.addEventListener("DOMContentLoaded", function() {
         new Chart(document.getElementById("bar-chart-horizontal-all"), {
             type: 'bar',
             data: {
-                labels: ["2019", "2021", "2022", "2023", "2024"],
+                labels: ["2019", "2021", "2022", "2023", "2024", "2025"],
                 datasets: [
                     {
                         label: "Signed-up",
                         backgroundColor: ["#3e95cd"],
-                        data: [36, 53, 124, 109, 190]
+                        data: [36, 53, 124, 109, 190, 167]
                     },
                     {
                         label: "Passed entrance exam",
                         backgroundColor: ["#8e5ea2"],
-                        data: [25, 39, 98, 100, 139]
+                        data: [25, 39, 98, 100, 139, 130]
                     },
                     {
                         label: "Attend classes",
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 plugins: {
                     title: {
                         display: true,
-                        text: 'Cybersecurity lectures summary: 2019-2024'
+                        text: 'Cybersecurity lectures summary: 2019-2025'
                     }
                 },
                 interaction: {
