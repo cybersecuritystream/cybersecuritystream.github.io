@@ -78,7 +78,7 @@ description: Schedule, topics, and trainers for this year's edition.
     |10:05 - 11:05<br>(1h)	    |**Security aspects of Azure Kubernetes clusters deployment and applications delivery** :material-new-box:<br>Michał Ziółek<br>{++5 minutes break++}     |
     |11:10 - 12:10<br>(1h)	    |**Cryptography - basics**<br>Jacek Kocyba<br>{++**20** minutes break++}                            |
     |12:30 - 13:30<br>(1h)	    |**Shadow IT**<br>Jacek Kocyba<br>{++5 minutes break++}                                             |
-    |13:35 - 14:35<br>(1h)	    |**CISSP – Introduction**<br>Krystian Tokarz<br>{++5 minutes break++}     |
+    |13:35 - 14:35<br>(1h)	    |**CISSP – Introduction** :material-new-box:<br>Krystian Tokarz<br>{++5 minutes break++}     |
     |14:40 - 16:00<br>(1h 20m)	|**Introduction to secret scanning** :material-new-box:<br>Patryk Zachnik, Mateusz Majstrak|
 
 === "DAY 6"
