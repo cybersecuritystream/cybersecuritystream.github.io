@@ -6,6 +6,7 @@ hide:
   - toc
 ---
 
+--8<-- "includes/links.md"
 
 # Projects & Initiatives
 
@@ -13,7 +14,23 @@ In this section, you will find other projects and initiatives in which *Cybersec
 
 <div class="grid cards" markdown>
 
--   __17 53c__
+-   __Modern technology block - part 3__ :flag_pl:
+
+    ---
+
+    Radio show on Radio Katowice on new technologies and cyber security! 
+    
+    (pl. Blok nowoczesnych technologii - część 3)
+
+    Listen **every Tuesday at 21:10**!
+
+    [:octicons-arrow-right-24: Program schedule](https://www.radio.katowice.pl/ramowka.html)
+    
+    ---
+
+    Sławomir Staciwa [:material-linkedin:][slawomir-staciwa-in]
+
+-   __17 53c__ :flag_pl:
 
     ---
 
@@ -21,7 +38,11 @@ In this section, you will find other projects and initiatives in which *Cybersec
 
     [:octicons-arrow-right-24: Project page](https://1753c.io)
 
--   __Cyber Mocni__
+    ---
+
+    Jakub Plusczok [:material-linkedin:][jakub-plusczok-in]
+
+-   __Cyber Mocni__  :flag_pl:
 
     ---
 
@@ -29,12 +50,21 @@ In this section, you will find other projects and initiatives in which *Cybersec
 
     [:octicons-arrow-right-24: Article](https://inghubspoland.com/news/cyber-mocni-take-care-of-childrens-online-safety)
 
--   __LimberDuck__
+    ---
+
+    Kamila Juszczyk [:material-linkedin:][kamila-juszczyk-in], 
+    Karolina Sieruga [:material-linkedin:][karolina-sieruga-in]
+
+-   __LimberDuck__ :flag_us: / :flag_pl:
 
     ---
 
     Open-source tools designed to streamline and automate the work of cybersecurity professionals in the area of Vulnerability Management.
 
     [:octicons-arrow-right-24: Project page](https://limberduck.org)
+
+    ---
+
+    Damian Krawczyk [:material-web:][damian-krawczyk-web]
 
 </div>
