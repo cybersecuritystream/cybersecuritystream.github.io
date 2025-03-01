@@ -25,7 +25,7 @@ In this section, you will find other projects and initiatives in which *Cybersec
 
     ---
 
-    An initiative led by ING Hubs Poland experts to educate children and young students about online safety through interactive school visits and engaging lessons on cybersecurity threats, digital responsibility, and safe internet use.
+    An initiative led by ING Hubs Poland experts to educate children, teenagers and seniors about online safety through interactive school visits and engaging lessons on cybersecurity threats, digital responsibility, and safe internet use.
 
     [:octicons-arrow-right-24: Article](https://inghubspoland.com/news/cyber-mocni-take-care-of-childrens-online-safety)
 
