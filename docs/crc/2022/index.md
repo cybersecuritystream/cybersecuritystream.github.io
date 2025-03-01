@@ -3,6 +3,8 @@ title: CRC 2022 edition
 description: Schedule, topics, and trainers for the 2022 edition.
 ---
 
+--8<-- "includes/links.md"
+
 # CRC 2022 edition
 
 ## Summary

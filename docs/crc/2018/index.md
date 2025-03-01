@@ -3,6 +3,8 @@ title: CRC 2018 edition
 description: Schedule, topics, and trainers for the 2018 edition.
 ---
 
+--8<-- "includes/links.md"
+
 # CRC 2018 edition
 
 ## Summary

@@ -3,6 +3,8 @@ title: CRC 2023 edition
 description: Schedule, topics, and trainers for the 2023 edition.
 ---
 
+--8<-- "includes/links.md"
+
 # CRC 2023 edition
 
 ## Summary

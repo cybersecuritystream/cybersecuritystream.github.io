@@ -3,6 +3,8 @@ title: CRC 2019 edition
 description: Schedule, topics, and trainers for the 2019 edition.
 ---
 
+--8<-- "includes/links.md"
+
 # CRC 2019 edition
 
 ## Summary

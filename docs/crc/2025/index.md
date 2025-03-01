@@ -4,6 +4,7 @@ title: CRC 2025 edition
 description: Schedule, topics, and trainers for this year's edition.
 ---
 
+--8<-- "includes/links.md"
 
 # CRC 2025 edition
 
