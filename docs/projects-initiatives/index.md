@@ -14,6 +14,20 @@ In this section, you will find other projects and initiatives in which *Cybersec
 
 <div class="grid cards" markdown>
 
+-   __SPOD 2.0__ :flag_pl:
+
+    ---
+
+    The association, which was established as a platform for the exchange of experiences between Data Protection Officers, coordinators, compliance officers, data protection and information enthusiasts from various industries spread across the country.
+    
+    (pl. Stowarzyszenie Praktyków Ochrony Danych)
+
+    [:octicons-arrow-right-24: Association website](https://spod2.pl)
+    
+    ---
+
+    Dagmara Adamczyk [:material-linkedin:][dagmara-adamczyk-in]
+
 -   __Modern technology block - part 3__ :flag_pl:
 
     ---
