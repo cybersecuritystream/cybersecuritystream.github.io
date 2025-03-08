@@ -62,7 +62,7 @@ In this section, you will find other projects and initiatives in which *Cybersec
 
     Open-source tools designed to streamline and automate the work of cybersecurity professionals in the area of Vulnerability Management.
 
-    [:octicons-arrow-right-24: Project page](https://limberduck.org)
+    [:octicons-arrow-right-24: Project website](https://limberduck.org)
 
     ---
 
