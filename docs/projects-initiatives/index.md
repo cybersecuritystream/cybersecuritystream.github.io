@@ -36,7 +36,7 @@ In this section, you will find other projects and initiatives in which *Cybersec
 
     Foundation and association dedicated to promoting cybersecurity through education, research, events, and collaboration with experts and institutions.
 
-    [:octicons-arrow-right-24: Project page](https://1753c.io)
+    [:octicons-arrow-right-24: Association website](https://1753c.io)
 
     ---
 
