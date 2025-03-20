@@ -64,10 +64,10 @@ description: Schedule, topics, and trainers for this year's edition.
     |---------------------------|---------------------------------------------------------------------------------------------------|
     |09:00 - 10:00<br>(1h)      |**Introduction to offensive tooling**<br>Michał Kucharski<br>{++5 minutes break++}                 |
     |10:05 - 11:05<br>(1h)      |**OSINT in the service of Offensive Security**<br>Maciej Pypeć<br>{++5 minutes break++}            |
-    |11:10 - 12:10<br>(1h)      |**Offensive Cybersecurity – Red Teaming theory**<br>Jakub Plusczok<br>{++**20** minutes break++}   |
-    |12:30 - 13:30<br>(1h)      |**Offensive Cybersecurity – Red Teaming  workshop**<br>Jakub Plusczok<br>{++5 minutes break++}     |
+    |11:10 - 12:10<br>(1h)      |**Offensive Cybersecurity – DDOS**<br>Gerard Żmuda                                                 |
+    |12:30 - 13:30<br>(1h)      |**Offensive Cybersecurity – Red Teaming theory**<br>Jakub Plusczok<br>{++**20** minutes break++}   |
     |13:35 - 14:35<br>(1h)      |**Offensive Cybersecurity – Red Teaming  workshop**<br>Jakub Plusczok<br>{++5 minutes break++}     |
-    |14:40 - 15:40<br>(1h)      |**Offensive Cybersecurity – DDOS**<br>Gerard Żmuda                                                 |
+    |14:40 - 15:40<br>(1h)      |**Offensive Cybersecurity – Red Teaming  workshop**<br>Jakub Plusczok<br>{++5 minutes break++}     |
 
 === "DAY 5"
 
