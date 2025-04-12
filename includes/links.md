@@ -33,3 +33,5 @@
 [mateusz-majstrak-in]: https://www.linkedin.com/in/mateusz-majstrak
 [michal-ziolek-in]: https://pl.linkedin.com/in/mz256
 [krystian-tokarz-in]: https://www.linkedin.com/in/krystian-tokarz-a9a8b159
+[openbiz]: https://www.openbiz.pl
+[cezar-cichocki-in]: https://www.linkedin.com/in/cezar-cichocki-53953732a

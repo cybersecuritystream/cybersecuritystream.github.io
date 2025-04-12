@@ -117,7 +117,8 @@ description: Schedule, topics, and trainers for this year's edition.
     |10:05 - 11:05<br>(1h)      |**Security data processing automation**<br>Piotr Furmaniak, Adam Majstrak<br>{++5 minutes break++} |
     |11:10 - 12:10<br>(1h)      |**Building ETL for Security data**<br>Michał Kocur<br>{++**20** minutes break++}                   |
     |12:30 - 13:30<br>(1h)      |**Building ETL for Security data**<br>Michał Kocur<br>{++5 minutes break++}                        |
-    |13:35 - 14:00<br>(25min)   |**Closing session**<br>Damian Krawczyk, Łukasz Jankowski                                           |
+    |13:35 - 14:35<br>(1h)      |**Vulnerability management then and now - the evolution <br>of approaches to risk measurement and analysis**:material-new-box:<br>**``GUEST LECTURE``**<br>[Cezar Cichocki][cezar-cichocki-in], [OpenBIZ][openbiz]<br>{++5 minutes break++}                                         |
+    |14:40 - 14:25<br>(25min)   |**Closing session**<br>Damian Krawczyk, Łukasz Jankowski                                           |
 
 === "EXAM"
 
