@@ -14,6 +14,34 @@ In this section, you will find other projects and initiatives in which *Cybersec
 
 <div class="grid cards" markdown>
 
+-   __NTHW__ :flag_us: / :flag_pl:
+
+    ---
+
+    Not The Hidden Wiki is the largest free repository of links and community on cybersecurity.
+    Useful for both beginners and experts. Check out the GitHub page!
+
+    [:octicons-arrow-right-24: Project website](https://notthehiddenwiki.com)
+    
+    ---
+
+    Michał Kucharski [:material-web:][michal-kucharski-web]
+
+-   __MHKI__ :flag_pl:
+
+    ---
+
+    The Museum of the History of Computers and information technology in Katowice showcases over 4,900 devices, with 300 on display. Exhibits cover 70 years of computing, including 50 Polish-made machines.
+    Visitors can enjoy a two-hour guided tour through computing history.
+    
+    (pl. Muzeum historii komputerów i informatyki)
+
+    [:octicons-arrow-right-24: Museum website](https://www.muzeumkomputerow.edu.pl)
+    
+    ---
+
+    Sławomir Staciwa [:material-linkedin:][slawomir-staciwa-in]
+
 -   __SPOD 2.0__ :flag_pl:
 
     ---
