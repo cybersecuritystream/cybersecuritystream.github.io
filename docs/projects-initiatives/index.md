@@ -18,6 +18,8 @@ In this section, you will find other projects and initiatives in which *Cybersec
 
     ---
 
+    [![Stars](https://img.shields.io/github/stars/notthehiddenwiki?label=Stars&style=social)](https://github.com/notthehiddenwiki)
+
     Not The Hidden Wiki is the largest free repository of links and community on cybersecurity.
     Useful for both beginners and experts. Check out the GitHub repo!
 
@@ -101,6 +103,8 @@ In this section, you will find other projects and initiatives in which *Cybersec
 -   __LimberDuck__ :flag_us: / :flag_pl:
 
     ---
+
+    [![Stars](https://img.shields.io/github/stars/limberduck?label=Stars&style=social)](https://github.com/limberduck)
 
     Open-source tools designed to streamline and automate the work of cybersecurity professionals in the area of Vulnerability Management.
 
