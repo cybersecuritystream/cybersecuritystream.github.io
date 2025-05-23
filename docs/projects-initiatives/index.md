@@ -111,5 +111,3 @@ In this section, you will find other projects and initiatives in which *Cybersec
     Damian Krawczyk [:material-web:][damian-krawczyk-web]
 
 </div>
-
-test change
