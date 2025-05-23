@@ -1,0 +1,34 @@
+﻿#,Topic,Trainer
+1,Kickoff meeting,"Łukasz Jankowski [:material-linkedin:][lukasz-jankowski-in],<br>Damian Krawczyk [:material-web:][damian-krawczyk-web]"
+2,Cyber awareness,Sławomir Staciwa [:material-linkedin:][slawomir-staciwa-in]
+3,Data Protection - Compliance,Dagmara Adamczyk [:material-linkedin:][dagmara-adamczyk-in]
+4 :material-new-box:,Legal aspects of cyber security,Judyta Berc [:material-linkedin:][judyta-berc-in]
+5,IT Risk Management - Basics,Askaniusz Ferens [:material-linkedin:][askaniusz-ferens-in]
+6,IT Risk Management - Governance,Justyna Chochla-Wojdyła [:material-linkedin:][justyna-chochla-wojdyla-in]
+7 :material-new-box:,IT Risk Management - Analysis,Anna Maszybrocka [:material-linkedin:][anna-maszybrocka-in]
+8 :material-new-box:,IT Risk Management - Monitoring and reporting,Daniel Leon
+9 :material-new-box:,IT Risk Management - On-prem vs Cloud,Piotr Czarnik [:material-linkedin:][piotr-czarnik-in]
+10,Risk Management - Compliance,Kamila Juszczyk [:material-linkedin:][kamila-juszczyk-in]
+11,Risk Management - Operational Risk Management,Oskar Marszalik [:material-linkedin:][oskar-marszalik-in]
+12,Risk Management - Audits,Kamila Juszczyk [:material-linkedin:][kamila-juszczyk-in]
+13,Identity and Access Management,Paweł Matyszok [:material-linkedin:][pawel-matyszok-in]
+14,Password vaults,Mateusz Kozieł [:material-linkedin:][mateusz-koziel-in]
+15,Cryptography - Basics,Jacek Kocyba [:material-linkedin:][jacek-kocyba-in]
+16,Shadow IT,Jacek Kocyba [:material-linkedin:][jacek-kocyba-in]
+17,Vulnerability Assessment,"Łukasz Jankowski [:material-linkedin:][lukasz-jankowski-in],<br>Damian Krawczyk [:material-web:][damian-krawczyk-web]"
+18,Vulnerability Assessment for containers,"Krzysztof Kozak [:material-linkedin:][krzysztof-kozak-in],<br>Łukasz Galos [:material-linkedin:][lukasz-galos-in]"
+19 :material-new-box:,Introduction to secret scanning,"Patryk Zachnik [:material-linkedin:][patryk-zachnik-in], Mateusz Majstrak [:material-linkedin:][mateusz-majstrak-in]"
+20,Secure Configuration Monitoring,Maciej Wróbel [:material-linkedin:][maciej-wrobel-in]
+21,Secure SDLC,Maciej Wróbel [:material-linkedin:][maciej-wrobel-in]
+22,Introduction to Offensive tooling,Michał Kucharski [:material-web:][michal-kucharski-web]
+23,OSINT in the service of Offensive Security,Maciej Pypeć [:material-linkedin:][maciej-pypec-in]
+24,Offensive Cybersecurity - Red Teaming theory,Jakub Plusczok [:material-linkedin:][jakub-plusczok-in]
+25,Offensive Cybersecurity - Red Teaming workshop,Jakub Plusczok [:material-linkedin:][jakub-plusczok-in]
+26,Offensive Cybersecurity - DDOS,Gerard Żmuda [:material-linkedin:][gerard-zmuda-in]
+27,Defensive Cybersecurity - SIEM + SOAR + Proxy,Daniel Jeczeń [:material-linkedin:][daniel-jeczen-in]
+28,Defensive Cybersecurity - Malware Analysis,Mirosław Koczenasz
+29,Building ETL for Security data,Michał Kocur [:material-linkedin:][michal-kocur-in]
+30,Security data processing automation,"Piotr Furmaniak [:material-linkedin:][piotr-furmaniak-in],<br>Adam Majstrak [:material-web:][adam-majstrak-web]"
+31,Introduction to Azure Public Cloud,Rafał Nowakowski [:material-linkedin:][rafal-nowakowski-in]
+32 :material-new-box:,Security aspects of Azure Kubernetes clusters deployment and applications delivery,Michał Ziółek [:material-linkedin:][michal-ziolek-in]
+33 :material-new-box:, CISSP – Introduction,Krystian Tokarz [:material-linkedin:][krystian-tokarz-in]
