@@ -1,0 +1,50 @@
+<!--
+  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Copyright and theme information -->
+<div class="md-copyright">
+  {% if config.copyright %}
+    <div class="md-copyright__highlight">
+      {{ config.copyright }}
+    </div>
+  {% endif %}
+  {% if not config.extra.generator == false %}
+    Made with 
+    <svg viewBox="0 0 1792 1792" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" style="height: 12px; margin: 0 0 -2 0px;"><path d="M896 1664q-26 0-44-18l-624-602q-10-8-27.5-26T145 952.5 77 855 23.5 734 0 596q0-220 127-344t351-124q62 0 126.5 21.5t120 58T820 276t76 68q36-36 76-68t95.5-68.5 120-58T1314 128q224 0 351 124t127 344q0 221-229 450l-623 600q-18 18-44 18z" fill="#e25555"></path></svg> 
+    in
+    <a
+      href="https://maps.app.goo.gl/6Fy9f33nsTTvoU5cA"
+      target="_blank" rel="noopener"
+    >
+    Poland
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" style="height: 10px; margin: 0 0 0 0px;" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 210 150"><path fill="#fff" fill-rule="nonzero" d="M11.65.4h182.16c6.19 0 11.25 5.06 11.25 11.25v119.88c0 6.18-5.06 11.25-11.25 11.25H11.65C5.46 142.78.4 137.71.4 131.53V11.65C.4 5.46 5.46.4 11.65.4z"/><path fill="#dc143c" fill-rule="nonzero" d="M.4 71.59h204.66v59.94c0 6.18-5.06 11.25-11.25 11.25H11.65C5.46 142.78.4 137.71.4 131.53V71.59z"/><path fill="#CCC" fill-rule="nonzero" d="M11.65 0h182.16c3.21 0 6.12 1.31 8.23 3.42a11.61 11.61 0 0 1 3.42 8.23v119.88c0 3.2-1.31 6.11-3.42 8.22-2.11 2.11-5.02 3.43-8.23 3.43H11.65c-3.2 0-6.12-1.32-8.23-3.43A11.604 11.604 0 0 1 0 131.53V11.65c0-3.21 1.31-6.12 3.42-8.23C5.53 1.31 8.45 0 11.65 0zm182.16.8H11.65c-2.99 0-5.7 1.22-7.66 3.19A10.793 10.793 0 0 0 .8 11.65v119.88c0 2.98 1.22 5.69 3.19 7.66 1.96 1.97 4.67 3.19 7.66 3.19h182.16c2.99 0 5.7-1.22 7.67-3.19 1.96-1.97 3.18-4.68 3.18-7.66V11.65c0-2.98-1.22-5.7-3.19-7.66A10.776 10.776 0 0 0 193.81.8z"/></svg>
+    </a>
+    </br>
+    Powered by
+    <a
+      href="https://squidfunk.github.io/mkdocs-material/"
+      target="_blank" rel="noopener"
+    >
+      Material for MkDocs
+    </a>
+  {% endif %}
+</div>
