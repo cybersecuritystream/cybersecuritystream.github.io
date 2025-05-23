@@ -2,6 +2,7 @@ site_name: Cybersecurity Stream
 site_url: https://cybersecuritystream.github.io
 repo_url: https://github.com/cybersecuritystream/cybersecuritystream.github.io
 edit_uri: edit/main/docs/
+repo_name: cybersecuritystream.github.io
 
 theme:
   palette:
