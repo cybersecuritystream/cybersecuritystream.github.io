@@ -13,7 +13,7 @@ social:
 
 If you are reading this, it means that you want to expand your Cybersecurity knowledge.
 
-You've come to the right place! Our CRC lectures are not just about passive learning. They are interactive sessions that are specifically designed to prepare you for corporate Cybersecurity roles. You will have the opportunity to listen, discuss, and even participate in the tasks we tackle daily. If you are intrigued by Information Security and wish to deepen your understanding in this field, we extend a warm invitation for you to join us.
+You've come to the right place! Our [CRC](crc) lectures are not just about passive learning. They are interactive sessions that are specifically designed to prepare you for corporate Cybersecurity roles. You will have the opportunity to listen, discuss, and even participate in the tasks we tackle daily. If you are intrigued by Information Security and wish to deepen your understanding in this field, we extend a warm invitation for you to join us.
 
 {++
 Over **400** people trained! [See](#training-testimonials) what they’re saying.
