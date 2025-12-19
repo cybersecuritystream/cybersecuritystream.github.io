@@ -21,7 +21,9 @@ Over **400** people trained! [See](#training-testimonials) what they’re saying
 
 We hope to see you at our lectures!
 
-[Read about 2025 edition :material-rocket-launch:](crc/2025/index.md){ .md-button }
+[Read about the 2026 edition :material-rocket-launch:{ .rocket-ignite }](crc/2026/index.md){ .md-button }
+[Don't miss the NEXT edition! :material-bell-ring:{ .ring }](crc/#follow){ .md-button .md-button--primary }
+[Read about the 2025 edition](crc/2025/index.md){ .md-button }
 
 ## Training statistics
 

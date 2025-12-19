@@ -9,6 +9,7 @@ Check out previous training editions, which we have continuously improved since 
 
 <div class="grid cards" markdown>
 
+- :material-chevron-right-circle: [__CRC 2025 edition__](../2025/index.md)
 - :material-chevron-right-circle: [__CRC 2024 edition__](../2024/index.md)
 - :material-chevron-right-circle: [__CRC 2023 edition__](../2023/index.md)
 - :material-chevron-right-circle: [__CRC 2022 edition__](../2022/index.md)

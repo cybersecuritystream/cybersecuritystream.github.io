@@ -148,11 +148,12 @@ nav:
 - Home: index.md
 - CRC:
   - crc/index.md
-  - crc/2025/index.md
+  - crc/2026/index.md
   - crc/instruction/index.md
   - crc/faq.md
   - Previous editions:
     - crc/previous/index.md
+    - crc/2025/index.md
     - crc/2024/index.md
     - crc/2023/index.md
     - crc/2022/index.md
