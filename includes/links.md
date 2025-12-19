@@ -3,6 +3,12 @@
 [askaniusz-ferens-in]: https://www.linkedin.com/in/asek-ferens
 [slawomir-staciwa-in]: https://www.linkedin.com/in/sstaciwa
 [damian-krawczyk-web]: https://www.damiankrawczyk.com
+[damian-krawczyk-in]: https://www.linkedin.com/in/damiankrawczyks
+[damian-krawczyk-gh]: https://github.com/damian-krawczyk
+[damian-krawczyk-instagram]: https://www.instagram.com/damiankrawczyks
+[damian-krawczyk-tiktok]: https://www.tiktok.com/@damiankrawczyks
+[damian-krawczyk-x]: https://x.com/damiankrawczyks
+[damian-krawczyk-threads]: https://www.threads.com/@damiankrawczyks
 [lukasz-jankowski-in]: https://www.linkedin.com/in/lukasz-jan-jankowski
 [jacek-kocyba-in]: https://www.linkedin.com/in/jacek-kocyba-49a5a2a0
 [mateusz-koziel-in]: https://www.linkedin.com/in/mateusz-koziel
