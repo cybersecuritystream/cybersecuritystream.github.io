@@ -28,3 +28,50 @@
     mask-image: var(--md-status--inprogress);
     -webkit-mask-image: var(--md-status--inprogress);
   }
+
+@keyframes pulse {
+0%, 40%, 80%, 100% {
+  transform: scale(1);
+}
+20%, 60% {
+  transform: scale(1.15);
+}
+}
+.pulse {
+  animation: pulse 1000ms infinite;
+}
+
+@keyframes ring {
+  0%   { transform: rotate(0); }
+  10%  { transform: rotate(15deg); }
+  20%  { transform: rotate(-10deg); }
+  30%  { transform: rotate(8deg); }
+  40%  { transform: rotate(-6deg); }
+  50%  { transform: rotate(4deg); }
+  60%  { transform: rotate(-2deg); }
+  70%  { transform: rotate(1deg); }
+  80%, 100% { transform: rotate(0); }
+}
+
+.ring {
+  animation: ring 1s ease-in-out infinite;
+  transform-origin: top center; /* Important to simulate a realistic swing */
+}
+
+@keyframes rocket-ignite {
+  0%   { transform: translate(0, 0); }
+  10%  { transform: translate(-1px, 1px); }
+  20%  { transform: translate(1px, -1px); }
+  30%  { transform: translate(-1px, 1px); }
+  40%  { transform: translate(1px, -1px); }
+  50%  { transform: translate(-0.5px, 0.5px); }
+  60%  { transform: translate(0.5px, -0.5px); }
+  70%  { transform: translate(-0.5px, 0.5px); }
+  80%  { transform: translate(0.5px, -0.5px); }
+  90%  { transform: translate(0, 0); }
+  100% { transform: translate(0, 0); }
+}
+
+.rocket-ignite {
+  animation: rocket-ignite 0.6s linear infinite;
+}
