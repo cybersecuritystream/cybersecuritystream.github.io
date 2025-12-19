@@ -23,7 +23,7 @@ We hope to see you at our lectures!
 
 [Read about the 2026 edition :material-rocket-launch:{ .rocket-ignite }](crc/2026/index.md){ .md-button }
 [Don't miss the NEXT edition! :material-bell-ring:{ .ring }](crc/#follow){ .md-button .md-button--primary }
-[Read about the 2025 edition](crc/2025/index.md){ .md-button }
+[Check previous editions](crc/previous/index.md){ .md-button }
 
 ## Training statistics
 
