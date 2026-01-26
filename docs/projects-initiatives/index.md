@@ -97,7 +97,6 @@ In this section, you will find other projects and initiatives in which *Cybersec
     ---
 
     Kamila Juszczyk [:material-linkedin:][kamila-juszczyk-in], 
-    Karolina Sieruga [:material-linkedin:][karolina-sieruga-in], 
     Jakub Plusczok [:material-linkedin:][jakub-plusczok-in]
 
 -   __LimberDuck__ :flag_us: / :flag_pl:
