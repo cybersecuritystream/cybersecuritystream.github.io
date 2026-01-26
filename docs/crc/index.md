@@ -40,6 +40,6 @@ If you don't want to miss the next edition of CRC follow and subscribe below sou
     [:material-linkedin:][lukasz-jankowski-in]
 * Business partners
     * Accenture [:material-web:](https://www.accenture.com)
-    * EY [:material-web:](https://www.ey.com)
-    * Kyndryl [:material-web:](https://www.kyndryl.com)
     * ING Hubs Poland [:material-web:](https://inghubspoland.com/en)
+    * Kyndryl [:material-web:](https://www.kyndryl.com)
+    * EY [:material-web:](https://www.ey.com) (up to 2025 edition)

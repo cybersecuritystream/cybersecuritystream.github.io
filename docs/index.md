@@ -21,6 +21,7 @@ Over **400** people trained! [See](#training-testimonials) what they’re saying
 
 We hope to see you at our lectures!
 
+[Register for 2026 edition :octicons-link-external-16:](https://euslugi.polsl.pl/Formularz/Formularz/Wypelnij/141){ .md-button .md-button--primary }
 [Read about the 2026 edition :material-rocket-launch:{ .rocket-ignite }](crc/2026/index.md){ .md-button }
 [Don't miss the NEXT edition! :material-bell-ring:{ .ring }](crc/#follow){ .md-button .md-button--primary }
 [Check previous editions](crc/previous/index.md){ .md-button }
