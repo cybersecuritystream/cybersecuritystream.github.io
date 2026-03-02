@@ -131,6 +131,7 @@ markdown_extensions:
 extra_javascript:
   - javascripts/chart.min.js
   - javascripts/chart-all.js
+  - javascripts/chart-2026.js
   - javascripts/chart-2025.js
   - javascripts/chart-2024.js
   - javascripts/chart-2023.js
