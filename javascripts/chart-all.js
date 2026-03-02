@@ -8,7 +8,13 @@ document.addEventListener("DOMContentLoaded", function() {
                     {
                         label: "Signed-up",
                         backgroundColor: ["#3e95cd"],
-                        data: [36, 53, 124, 109, 190, 167, 238]
+                        data: [36, 53, 124, 109, 190, 167, 238],
+                        trendlineLinear: {
+                            colorMin: "#1a6fa8",
+                            colorMax: "#1a6fa8",
+                            lineStyle: "dotted",
+                            width: 1
+                        }
                     },
                     {
                         label: "Passed entrance exam",
