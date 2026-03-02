@@ -8,7 +8,7 @@ description: Schedule, topics, and trainers for this year's edition.
 
 # CRC 2026 edition
 
-[Register for 2026 edition :octicons-link-external-16:](https://euslugi.polsl.pl/Formularz/Formularz/Wypelnij/141){ .md-button .md-button--primary }
+<!-- [Register for 2026 edition :octicons-link-external-16:](https://euslugi.polsl.pl/Formularz/Formularz/Wypelnij/141){ .md-button .md-button--primary } -->
 
 ## Summary
 
