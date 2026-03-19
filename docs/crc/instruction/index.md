@@ -72,8 +72,8 @@ description: Read carefully to join the CRC classes of this edition successfully
 7. Say hello 👋 to everyone and [introduce yourself][repository-discussion-hello].
 
 8. Feel free to start a new [discussions][repository-discussions]. Remember to tag appropriate group to make sure that they will receive notification about your post:
-    - `@cybersecuritystream/trainers-2025`
-    - `@cybersecuritystream/group-2025`
+    - `@cybersecuritystream/trainers-2026`
+    - `@cybersecuritystream/group-2026`
 
 9.  Check [lectures timetable][lectures-timetable] 🗓 and [JOIN][join] the classes!
 
@@ -81,9 +81,9 @@ description: Read carefully to join the CRC classes of this edition successfully
 
     You can install GitHub app on your smartphone, go to [github.com/mobile](https://github.com/mobile) to have even easier access to all information needed or to take a part in discussions.
 
-[lectures-timetable]: https://cybersecuritystream.github.io/crc/2025/#schedule "lectures timetable"
-[passing-criteria]: https://github.com/cybersecuritystream/cybersecurity-2025#passing-criteria "passing criteria"
-[repository]: https://github.com/cybersecuritystream/cybersecurity-2025 "repository"
-[repository-discussions]: https://github.com/cybersecuritystream/cybersecurity-2025/discussions "discussions"
-[repository-discussion-hello]: https://github.com/cybersecuritystream/cybersecurity-2025/discussions/1 "introduce yourself"
-[join]: https://github.com/cybersecuritystream/cybersecurity-2025#join "JOIN"
+[lectures-timetable]: https://cybersecuritystream.github.io/crc/2026/#schedule "lectures timetable"
+[passing-criteria]: https://github.com/cybersecuritystream/cybersecurity-2026#passing-criteria "passing criteria"
+[repository]: https://github.com/cybersecuritystream/cybersecurity-2026 "repository"
+[repository-discussions]: https://github.com/cybersecuritystream/cybersecurity-2026/discussions "discussions"
+[repository-discussion-hello]: https://github.com/cybersecuritystream/cybersecurity-2026/discussions/1 "introduce yourself"
+[join]: https://github.com/cybersecuritystream/cybersecurity-2026#join "JOIN"
