@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     {
                         label: "Passed entrance exam",
                         backgroundColor: ["#8e5ea2"],
-                        data: []
+                        data: [178]
                     },
                     {
                         label: "Attend classes",
