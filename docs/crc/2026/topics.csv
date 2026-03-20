@@ -25,8 +25,8 @@
 24,Offensive Cybersecurity - Red Teaming workshop,Jakub Plusczok [:material-linkedin:][jakub-plusczok-in]
 25,Offensive Cybersecurity - DDOS,Gerard Żmuda [:material-linkedin:][gerard-zmuda-in]
 26,Defensive Cybersecurity - SIEM + SOAR + Proxy,Daniel Jeczeń [:material-linkedin:][daniel-jeczen-in]
-27,Defensive Cybersecurity - Malware Analysis,Mirosław Koczenasz
-28 :material-new-box:{ style="color: red" },Defensive Cybersecurity - C2 & exfiltration,Mirosław Koczenasz
+27 :material-clock-plus:{ style="color: green"; title="Session expanded this year!" },Defensive Cybersecurity - Malware Analysis,Mirosław Koczenasz
+28 :material-new-box:{ style="color: red"; title="New session introduced this year!" },Defensive Cybersecurity - C2 & exfiltration,Mirosław Koczenasz
 29,Building ETL for Security data,Michał Kocur [:material-linkedin:][michal-kocur-in]
 30,Security data processing automation,"Piotr Furmaniak [:material-linkedin:][piotr-furmaniak-in],<br>Adam Majstrak [:material-web:][adam-majstrak-web]"
 31,Introduction to Azure Public Cloud,Rafał Nowakowski [:material-linkedin:][rafal-nowakowski-in]
