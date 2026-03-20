@@ -9,73 +9,92 @@ description: Read carefully to join the CRC classes of this edition successfully
 
     **Start following the instructions below only after receiving the invitation to the GitHub organization via email.**
 
-1. Join the `cybersecuritystream` organization at GitHub by clicking a green button ++"[Join @cybersecuritystream]"++ in the invitation message send to your e-mail address given during registration to the Corporate Readiness Certificate (CRC) educational program.
+## Step 1
 
-    ??? note
+Join the `cybersecuritystream` organization at GitHub by clicking a green button ++"[Join @cybersecuritystream]"++ in the invitation message send to your e-mail address given during registration to the Corporate Readiness Certificate (CRC) educational program.
 
-        Invitation with below message will be send from noreply@github.com e-mail address.
+??? note
 
-        ![](cybersecuritystream-invitation.webp){ loading=lazy width="400"}
+    Invitation with below message will be send from noreply@github.com e-mail address.
 
-2. Login using your GitHub account if you already heave it or create new GitHub account.
+    ![](cybersecuritystream-invitation.webp){ loading=lazy width="400"}
 
-    ??? warning "Verify your e-mail address at GitHub!"
+## Step 2
 
-        If you decide to create new GitHub account you can use any e-mail address, but **remember to verify your e-mail address at GitHub**.
+Login using your GitHub account if you already heave it or create new GitHub account.
 
-3. After login with your GitHub account, confirm joining the organization by clicking a green button ++"[Join Cybersecurity Stream]"++.
+??? warning "Verify your e-mail address at GitHub!"
 
-    ??? note
+    If you decide to create new GitHub account you can use any e-mail address, but **remember to verify your e-mail address at GitHub**.
 
-        **Do not** mark the checkbox for GitHub Copilot.
+## Step 3
 
-        ![](cybersecuritystream-join.webp){ loading=lazy width="500" }
+After login with your GitHub account, confirm joining the organization by clicking a green button ++"[Join Cybersecurity Stream]"++.
 
-4. Go to [github.com/settings/organizations](https://github.com/settings/organizations) and check if you see the `cybersecuritystream` organization on the list of organizations at GitHub to which you belong.
+??? note
 
-    ??? note
+    **Do not** mark the checkbox for GitHub Copilot.
 
-        Here is what you should see:
-        
-        ![](cybersecuritystream-member.webp){ loading=lazy width="600" }
+    ![](cybersecuritystream-join.webp){ loading=lazy width="500" }
 
-        If you don't see `cybersecuritystream` on the list of organizations go back to invitation message mentioned in the first point and click again a green button ++"[Join @cybersecuritystream]"++.
-        You should see prompt to join the Cybersecurity Stream, click a green button ++"[Join Cybersecurity Stream]"++ as shown below.
+## Step 4
 
-        ![](cybersecuritystream-join.webp){ loading=lazy width="500" }
+Go to [github.com/settings/organizations](https://github.com/settings/organizations) and check if you see the `cybersecuritystream` organization on the list of organizations at GitHub to which you belong.
 
-5. Check rest of the details in GitHub *private* [repository][repository] dedicated for these lectures.
+??? note
 
-    ??? tip
+    Here is what you should see:
+    
+    ![](cybersecuritystream-member.webp){ loading=lazy width="600" }
 
-        *All communication will be send to you via GitHub notifications.* +
-        **Remember to click as shown below for this [repository][repository]:**
+    If you don't see `cybersecuritystream` on the list of organizations go back to invitation message mentioned in the first point and click again a green button ++"[Join @cybersecuritystream]"++.
+    You should see prompt to join the Cybersecurity Stream, click a green button ++"[Join Cybersecurity Stream]"++ as shown below.
 
-        * 👁 ++"[Watch]"++ > ++"[All activity]"++
-        * ⭐️ ++"[Star]"++
+    ![](cybersecuritystream-join.webp){ loading=lazy width="500" }
 
-        ![](crcep-watch-star.png){ loading=lazy }
+## Step 5
 
-    ??? tip
+Check rest of the details in GitHub *private* [repository][repository] dedicated for these lectures.
 
-        Check you your GitHub profile notifications settings:
+??? tip
 
-         1. Go to profile settings [https://github.com/settings/profile](https://github.com/settings/profile)
-         2. Go to notification settings [https://github.com/settings/notifications](https://github.com/settings/notifications)
-         3. Make sure that for **Participating, @mentions and custom** you have marked option to notify you via **Email**.
+    *All communication will be send to you via GitHub notifications.* +
+    **Remember to click as shown below for this [repository][repository]:**
 
-        ![](github-notification-settings.webp){ loading=lazy width="600" }
+    * 👁 ++"[Watch]"++ > ++"[All activity]"++
+    * ⭐️ ++"[Star]"++
 
+    ![](crcep-watch-star.png){ loading=lazy }
 
-6. Check [passing criteria][passing-criteria] for current edition ✅.
+??? tip
 
-7. Say hello 👋 to everyone and [introduce yourself][repository-discussion-hello].
+    Check you your GitHub profile notifications settings:
 
-8. Feel free to start a new [discussions][repository-discussions]. Remember to tag appropriate group to make sure that they will receive notification about your post:
+        1. Go to profile settings [https://github.com/settings/profile](https://github.com/settings/profile)
+        2. Go to notification settings [https://github.com/settings/notifications](https://github.com/settings/notifications)
+        3. Make sure that for **Participating, @mentions and custom** you have marked option to notify you via **Email**.
+
+    ![](github-notification-settings.webp){ loading=lazy width="600" }
+
+## Step 6
+
+Check [passing criteria][passing-criteria] for current edition ✅.
+
+## Step 7
+
+Say hello 👋 to everyone and [introduce yourself][repository-discussion-hello].
+
+## Step 8
+
+Feel free to start a new [discussions][repository-discussions]. Remember to tag appropriate group to make sure that they will receive notification about your post:
     - `@cybersecuritystream/trainers-2026`
     - `@cybersecuritystream/group-2026`
 
-9.  Check [lectures timetable][lectures-timetable] 🗓 and [JOIN][join] the classes!
+## Step 9
+
+Check [lectures timetable][lectures-timetable] 🗓 and [JOIN][join] the classes!
+
+## Step 10
 
 !!! tip
 
