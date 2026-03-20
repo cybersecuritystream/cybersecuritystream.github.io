@@ -87,8 +87,14 @@ Say hello 👋 to everyone and [introduce yourself][repository-discussion-hello]
 ## Step 8
 
 Feel free to start a new [discussions][repository-discussions]. Remember to tag appropriate group to make sure that they will receive notification about your post:
-    - `@cybersecuritystream/trainers-2026`
-    - `@cybersecuritystream/group-2026`
+
+```
+@cybersecuritystream/trainers-2026
+```
+
+```
+@cybersecuritystream/group-2026
+```
 
 ## Step 9
 
