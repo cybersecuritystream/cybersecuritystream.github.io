@@ -116,9 +116,9 @@ description: Schedule, topics, and trainers for this year's edition.
 
      2026-05-23 09:00 – 16:00 +0200 (CEST)
 
-    !!! warning
+    <!-- !!! warning -->
 
-        This day may end at 16:00 we will share more details about the schedule for this day in advance.
+    <!-- This day may end at 16:00 we will share more details about the schedule for this day in advance. -->
 
     |Time                       |Lecture                                                                                            |
     |---------------------------|---------------------------------------------------------------------------------------------------|
