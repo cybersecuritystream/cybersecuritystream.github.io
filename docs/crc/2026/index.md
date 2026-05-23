@@ -114,7 +114,7 @@ description: Schedule, topics, and trainers for this year's edition.
 
 === "DAY 8"
 
-     2026-05-23 09:00 – 16:00 +0200 (CEST)
+     2026-05-23 09:00 – 14:00 +0200 (CEST)
 
     <!-- !!! warning -->
 
