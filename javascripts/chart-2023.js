@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document$.subscribe(function() {
     if (document.getElementById("bar-chart-horizontal-2023")) {
         new Chart(document.getElementById("bar-chart-horizontal-2023"), {
             type: 'bar',
