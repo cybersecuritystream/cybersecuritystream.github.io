@@ -126,7 +126,7 @@ description: Schedule, topics, and trainers for this year's edition.
     |10:05 - 11:05<br>(1h)      |**Security data processing automation**<br>Piotr Furmaniak, Adam Majstrak<br>{++5 minutes break++} |
     |11:10 - 12:10<br>(1h)      |**Building ETL for Security data**<br>Michał Kocur<br>{++**20** minutes break <span style="color: orange">:material-silverware-fork-knife:{ title="Eat healthy food!" }++}                   |
     |12:30 - 13:30<br>(1h)      |**Building ETL for Security data**<br>Michał Kocur<br>{++5 minutes break++}                        |
-    |13:35 - 14:00<br>(25min)   |**Closing session**<br>Damian Krawczyk, Łukasz Jankowski                                           |
+    |13:35 - 14:00<br>(25min)   |**Closing session**<br>Damian Krawczyk                                                             |
 
 === "EXAM"
 
