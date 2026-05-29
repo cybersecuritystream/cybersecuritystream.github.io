@@ -24,7 +24,7 @@ document$.subscribe(function() {
                     {
                         label: "Attend classes",
                         backgroundColor: ["#F8CF60"],
-                        data: [23, 39, 73, 83, 95, 98]
+                        data: [23, 39, 73, 83, 95, 98, 151]
                     },
                     {
                         label: "Passed final exam",
