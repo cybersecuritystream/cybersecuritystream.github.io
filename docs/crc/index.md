@@ -38,6 +38,7 @@ If you don't want to miss the next edition of CRC follow and subscribe below sou
     [:material-web:][damian-krawczyk-web]
     * Łukasz Jankowski 
     [:material-linkedin:][lukasz-jankowski-in]
+* Cybersecurity Stream [trainers](2026/#topics)
 * Business partners
     * Accenture [:material-web:](https://www.accenture.com)
     * ING Hubs Poland [:material-web:](https://inghubspoland.com/en)
