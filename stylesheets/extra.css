@@ -85,3 +85,7 @@
     #bar-chart-wrapper { width: 600px; height: 300px; }
     #bar-chart-wrapper canvas { width: 600px; height: 300px; }
 }
+@media (max-height: 500px) and (orientation: landscape) {
+    #bar-chart-wrapper { width: 100%; height: 350px; }
+    #bar-chart-wrapper canvas { width: 100%; height: 350px; }
+}
