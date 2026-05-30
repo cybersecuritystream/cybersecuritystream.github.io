@@ -29,8 +29,8 @@ We hope to see you at our lectures!
 ## Training statistics
 
 
-<div style="display: flex; justify-content: center; align-items: center; margin: auto; height: 300px; width: 100%; max-width: 600px;">
-    <canvas id="bar-chart-horizontal-all" style="width: 100%; height: 300px;"></canvas>
+<div id="bar-chart-wrapper">
+    <canvas id="bar-chart-horizontal-all"></canvas>
 </div>
 
 
