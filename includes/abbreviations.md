@@ -7,3 +7,6 @@
 *[ETL]: Extract, Transform and Load
 *[SDLC]: Software Development Life Cycle
 *[CISSP]: Certified Information Systems Security Professional
+*[MHKI]: Muzeum historii komputerów i informatyki
+*[NTHW]: Not The Hidden Wiki
+*[SPOD]: Stowarzyszenie Praktyków Ochrony Danych
