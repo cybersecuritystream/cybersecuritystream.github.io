@@ -68,11 +68,11 @@ Check rest of the details in GitHub *private* [repository][repository] dedicated
 
 ??? tip
 
-    Check you your GitHub profile notifications settings:
+    Check your GitHub profile notifications settings:
 
-        1. Go to profile settings [https://github.com/settings/profile](https://github.com/settings/profile)
-        2. Go to notification settings [https://github.com/settings/notifications](https://github.com/settings/notifications)
-        3. Make sure that for **Participating, @mentions and custom** you have marked option to notify you via **Email**.
+      1. Go to profile settings [https://github.com/settings/profile](https://github.com/settings/profile)
+      2. Go to notification settings [https://github.com/settings/notifications](https://github.com/settings/notifications)
+      3. Make sure that for **Participating, @mentions and custom** you have marked option to notify you via **Email**.
 
     ![](github-notification-settings.webp){ loading=lazy width="600" }
 
