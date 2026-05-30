@@ -42,16 +42,17 @@ We hope to see you at our lectures!
 
     This was one of the best courses on Cybersecurity I have ever attended. Loved the timeline and how you built the momentum for the most difficult parts to come, leading us through the basics first. I have already recommended it to my friends for the upcoming year. Loved the classes and the tutors who did an amazing job explaining even the hardest concepts, plus being extremely friendly and approachable at the same time. My personal fav - IAM, wow that guy did great! :) Kudos to the organizers, great job!
 
-Check the rest of the feedback we got for the [CRC 2024](crc/2024/index.md) edition.
+:material-chevron-right-circle: [__Read more__](crc/2024/index.md#testimonials) comments from 2024 edition attendees.
+
 
 !!! quote "2023 training participant"
 
     This was one of the best experiences I’ve had during my time at a university.
 
-Check the rest of the feedback we got for the [CRC 2023](crc/2023/index.md) edition.
+:material-chevron-right-circle: [__Read more__](crc/2023/index.md#testimonials) comments from 2023 edition attendees.
 
 !!! quote "2022 training participant"
 
     It was a great adventure, comparing to other CRC course that i participated you definitely exceeded my expectations, I will recommend your course to others, thanks :)
 
-Check the rest of the feedback we got for the [CRC 2022](crc/2022/index.md) edition.
+:material-chevron-right-circle: [__Read more__](crc/2022/index.md#testimonials) comments from 2022 edition attendees.
