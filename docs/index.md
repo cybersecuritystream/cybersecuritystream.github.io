@@ -15,9 +15,9 @@ If you are reading this, it means that you want to expand your Cybersecurity kno
 
 You've come to the right place! Our [CRC](crc) lectures are not just about passive learning. They are interactive sessions that are specifically designed to prepare you for corporate Cybersecurity roles. You will have the opportunity to listen, discuss, and even participate in the tasks we tackle daily. If you are intrigued by Information Security and wish to deepen your understanding in this field, we extend a warm invitation for you to join us.
 
-{++
-Over **560** people trained! [See](#training-testimonials) what they’re saying.
-++}
+!!! success inline "Over **560** people trained! [Check](#training-testimonials) what they’re saying."
+
+Our training is giving you a unique opportunity to interact with 30[^1] experts from different areas of Cybersecurity, who are sharing their knowledge and experience with you.
 
 We hope to see you at our lectures!
 
@@ -56,3 +56,5 @@ We hope to see you at our lectures!
     It was a great adventure, comparing to other CRC course that i participated you definitely exceeded my expectations, I will recommend your course to others, thanks :)
 
 :material-chevron-right-circle: [__Read more__](crc/2022/index.md#testimonials) comments from 2022 edition attendees.
+
+[^1]: Number of trainers in 2026 edition. Number of trainers may vary slightly from edition to edition.
