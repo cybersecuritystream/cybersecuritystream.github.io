@@ -10,3 +10,6 @@
 *[MHKI]: Muzeum historii komputerów i informatyki
 *[NTHW]: Not The Hidden Wiki
 *[SPOD]: Stowarzyszenie Praktyków Ochrony Danych
+*[IT]: Information Technology
+*[SAP]: Systems, Applications and Products in Data Processing
+*[ERP]: Enterprise Resource Planning
