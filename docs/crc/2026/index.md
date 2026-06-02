@@ -131,3 +131,10 @@ description: Schedule, topics, and trainers for this year's edition.
 === "EXAM"
 
      2026-05-30 10:00 – 11:00 +0200 (CEST)
+
+## Assessment
+
+Here are some opinions from our training participants in **CRC'26**:
+
+![CRC Cybersecurity survey 2026](crc-cybersecurity-survey-2026-light.webp#only-light){ width="600" }
+![CRC Cybersecurity survey 2026](crc-cybersecurity-survey-2026-dark.webp#only-dark){ width="600" }

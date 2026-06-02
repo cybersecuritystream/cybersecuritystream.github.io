@@ -29,12 +29,12 @@ document$.subscribe(function() {
                     {
                         label: "Passed final exam",
                         backgroundColor: ["#EC5F3B"],
-                        data: [11, 31, 64, 65, 86, 78]
+                        data: [11, 31, 64, 65, 86, 78, 124]
                     },
                     {
                         label: "Certified",
                         backgroundColor: ["#84C678"],
-                        data: [11, 31, 64, 65, 86, 78]
+                        data: [11, 31, 64, 65, 86, 78, 124]
                     }
                 ]
             },
