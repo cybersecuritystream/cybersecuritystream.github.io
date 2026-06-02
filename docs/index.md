@@ -38,6 +38,12 @@ We hope to see you at our lectures!
 
 ## Training testimonials
 
+!!! quote "2026 training participant"
+
+    Showcasing as many of the technologies used in the industry as possible. Real-world case studies. Showing what it’s like to work at a company. University instructors teach technologies that haven’t been used in a long time. They aren’t up to date with the latest developments. The academic approach is up to 20 years out of date, and for some people, these courses are the only reliable source that can provide insight into what current work tools look like today.
+
+:material-chevron-right-circle: [__Read more__](crc/2026/index.md#testimonials) comments from 2026 edition attendees.
+
 !!! quote "2024 training participant"
 
     This was one of the best courses on Cybersecurity I have ever attended. Loved the timeline and how you built the momentum for the most difficult parts to come, leading us through the basics first. I have already recommended it to my friends for the upcoming year. Loved the classes and the tutors who did an amazing job explaining even the hardest concepts, plus being extremely friendly and approachable at the same time. My personal fav - IAM, wow that guy did great! :) Kudos to the organizers, great job!
