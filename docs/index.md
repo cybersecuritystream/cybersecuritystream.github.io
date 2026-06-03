@@ -40,7 +40,7 @@ We hope to see you at our lectures!
 
 !!! quote "2026 training participant"
 
-    Showcasing as many of the technologies used in the industry as possible. Real-world case studies. Showing what it’s like to work at a company. University instructors teach technologies that haven’t been used in a long time. They aren’t up to date with the latest developments. The academic approach is up to 20 years out of date, and for some people, these courses are the only reliable source that can provide insight into what current work tools look like today.
+    The course is of a high standard. In addition to more general presentations, the course places a strong emphasis on cybersecurity within organizations, which sets it apart from many others. This approach provides insight into the hierarchy and work of cybersecurity teams in companies, rather than just offering a dose of technical knowledge often taken out of context, which helps participants better identify the area that interests them.
 
 :material-chevron-right-circle: [__Read more__](crc/2026/index.md#testimonials) comments from 2026 edition attendees.
 
