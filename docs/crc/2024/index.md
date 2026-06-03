@@ -11,7 +11,7 @@ description: Schedule, topics, and trainers for the 2024 edition.
 
 {{ read_csv('summary.csv') }}
 
-<div><canvas id="bar-chart-horizontal-2024" width="800" height="420"></canvas></div>
+<div id="bar-chart-wrapper"><canvas id="bar-chart-horizontal-2024"></canvas></div>
 
 ## Topics
 
