@@ -35,6 +35,7 @@ document$.subscribe(function() {
             options: {
                 legend: { display: true },
                 responsive: true,
+                maintainAspectRatio: false,
                 plugins: {
                     title: {
                         display: true,
