@@ -53,7 +53,7 @@ document$.subscribe(function() {
                         position: 'bottom',
                         align: 'end',
                         font: {
-                            size: 10,
+                            size: 11,
                             weight: 'normal'
                         },
                         color: '#888'
