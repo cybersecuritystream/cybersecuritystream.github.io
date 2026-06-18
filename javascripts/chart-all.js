@@ -45,7 +45,18 @@ document$.subscribe(function() {
                 plugins: {
                     title: {
                         display: true,
-                        text: 'Cybersecurity lectures summary: 2019-2026'
+                        text: 'Cybersecurity Stream lectures summary: 2019-2026'
+                    },
+                    subtitle: {
+                        display: true,
+                        text: 'Free cybersecurity training for students and graduates - cybersecuritystream.github.io',
+                        position: 'bottom',
+                        align: 'end',
+                        font: {
+                            size: 10,
+                            weight: 'normal'
+                        },
+                        color: '#888'
                     }
                 },
                 interaction: {
