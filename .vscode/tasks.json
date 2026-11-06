@@ -12,6 +12,25 @@
                 }
             },
             "command": "${config:virtualenvPath}/mkdocs serve -a 127.0.0.1:$PROJECT_PORT --open"
-        }
+        },
+        {
+            "label": "Start Zensical",
+            "type": "shell",
+            "options": 
+            {
+                "env": 
+                {
+                    "PROJECT_PORT": "8080"
+                }
+            },
+            "command": "export BUILD_ID=\"$(TZ='Europe/Warsaw' date '+%Y-%m-%d %H:%M %Z') ($(git rev-parse --short HEAD 2>/dev/null || echo local))\" && ${config:virtualenvPath}/zensical serve -a 127.0.0.1:$PROJECT_PORT --open"
+        },
+        {
+            "label": "Build Zensical",
+            "type": "shell",
+            "command": "${config:virtualenvPath}/zensical build --clean --strict",
+            "group": "build",
+            "problemMatcher": []
+        },
     ]
 }

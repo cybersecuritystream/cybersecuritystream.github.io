@@ -1,7 +1,9 @@
 ---
 title: Registration for CRC 2025 edition is open!
 date: 2025-01-11
-authors: [damiankrawczyk,lukaszjankowski]
+authors: 
+  - damiankrawczyk
+  - lukaszjankowski
 description: >
   CRC edition 2025 registration started, sign-up!
 categories:

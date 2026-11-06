@@ -1,7 +1,9 @@
 ---
 title: Registration for CRC 2026 edition is open!
 date: 2026-01-26
-authors: [damiankrawczyk,lukaszjankowski]
+authors: 
+  - damiankrawczyk
+  - lukaszjankowski
 description: >
   CRC edition 2026 registration started, sign-up!
 categories:
