@@ -17,6 +17,8 @@ Usually, the CRC education program registration is open at the beginning of Febr
 
 No.
 
+!!! warning "You are not allowed to record sessions!"
+
 ## Will you share the materials for the study?
 
 Yes.
